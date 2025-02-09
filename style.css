@@ -268,7 +268,7 @@ background-size: cover;
 .for{
     width: 750px;
     height: 200px;
-    margin: auto;
+    margin: 50px auto;
     background-image: url(assets/handshake.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -307,6 +307,31 @@ background-size: cover;
 }
 
 
+/* footer */
+
+footer{
+    background-color: whitesmoke;
+    
+}
+
+.icon{
+    display: flex;
+    justify-content: space-between;
+    width: 750px;
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+    
+}
+
+.icon h2{
+    font-size: 17px;
+}
+
+.lik img{
+    margin: 10px;
+    height: 25px;
+}
 
 
 
