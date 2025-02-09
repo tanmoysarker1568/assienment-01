@@ -54,3 +54,65 @@ background-size: cover;
     border-radius: 5px;
     cursor: pointer;
 }
+
+/* main-section */
+
+main{
+    width: 700px;
+    margin:  50px auto;
+    padding: 40px 0;
+    background-color: rgb(245, 250, 250);
+
+}
+
+ h2{
+    text-align: center;
+} 
+
+p{
+    text-align: center;
+    color: gray;
+}
+.coto-vai{
+    display: flex;
+    /* align-items: center; */
+    padding:  30px 70px;
+    
+
+}
+
+.ki-kori{
+    
+    width: 200px;
+    /* height: 100px; */
+    
+    
+   
+
+
+}
+.ki-kori h2{
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(59, 57, 57);
+    text-align: left;
+    line-height: 25px;
+    text-shadow: 5px 8px 120px;
+    word-spacing: 9px;
+
+}
+
+.ki-kori p{
+    text-align: left;
+    margin: 20px 0;
+}
+
+.ki-kori button{
+    padding: 7px;
+    color: rgb(66, 63, 63);
+}
+.buji img{
+    margin-left: 100px;
+    width: 200px;
+    
+}
