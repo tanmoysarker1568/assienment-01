@@ -226,6 +226,44 @@ background-size: cover;
     color: black;
 }
 
+/* 4th-section */
+
+.next{
+    width: 750px;
+    margin: auto;
+}
+
+.next h2{
+    text-align: center;
+}
+
+.next p{
+    text-align: center;
+    color: gray;
+}
+
+.pum{
+    display: flex;
+    align-items: center;
+    border: 2px solid rgb(219, 214, 214);
+    margin-bottom: 15px;
+    padding: 25px;
+    border-radius: 7px;
+}
+
+.js{
+    margin-left: 30px;
+}
+
+.js h2{
+    text-align: left;
+}
+
+.js a{
+    color: rgb(27, 26, 26);
+}
+
+
 
 
 
