@@ -65,11 +65,11 @@ background-size: cover;
 
 }
 
- h2{
+.main-n h2{
     text-align: center;
 } 
 
-p{
+.main-n p{
     text-align: center;
     color: gray;
 }
@@ -119,6 +119,15 @@ p{
 
 /* 2nd-section */
 
+.kocu h2{
+    text-align: center;
+}
+
+.kocu p{
+    text-align: center;
+    color: grey;
+}
+
 .kocu{
     width: 750px;
     margin: auto;
@@ -134,4 +143,90 @@ p{
 }
 
 /* 3rd-section */
+
+.big-prn{
+    width: 750px;
+    margin: 70px auto;
+}
+
+.big-prn h2{
+    text-align: center;
+}
+.big-prn p{
+    text-align: center;
+    color: gray;
+}
+
+
+.khata{
+    display: flex;
+    justify-content: space-between;
+}
+
+.soto-prn{
+    border-radius: 5px;
+    padding: 25px;
+    margin: 6px 9px;
+    background-color: rgb(226, 221, 219);
+}
+
+.soto-prn h2{
+    text-align: left;
+}
+
+.soto-prn p{
+    text-align: left;
+    margin: 15px 0;
+}
+
+.soto-prn a{
+    color: black;
+}
+
+/* kkkk */
+
+.soto-prn-dir{
+    border-radius: 5px;
+    padding: 25px;
+    margin: 6px 9px;
+    background-color: rgb(211, 211, 240);
+}
+
+.soto-prn-dir h2{
+    text-align: left;
+}
+
+.soto-prn-dir p{
+    text-align: left;
+    margin: 15px 0;
+}
+
+.soto-prn-dir a{
+    color: black;
+}
+/* dddd */
+
+.soto-prn-kit{
+    border-radius: 5px;
+    padding: 25px;
+    margin: 6px 9px;
+    background-color: rgb(216, 216, 181);
+}
+
+.soto-prn-kit h2{
+    text-align: left;
+}
+
+.soto-prn-kit p{
+    text-align: left;
+    margin: 15px 0;
+}
+
+.soto-prn-kit a{
+    color: black;
+}
+
+
+
+
 
